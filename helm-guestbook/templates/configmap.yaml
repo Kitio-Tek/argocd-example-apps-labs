@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: guestbook-config
-data:
-  env: dev
-  mode: helm
